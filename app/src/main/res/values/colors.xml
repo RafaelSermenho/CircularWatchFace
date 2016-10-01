@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dawn">#ffc801</color>
+    <color name="afternoon">#f76a0d</color>
+    <color name="night">#0000f4</color>
+</resources>
